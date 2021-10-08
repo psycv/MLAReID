@@ -5,9 +5,9 @@ The official repository for Multi-level fusion model for person re-identificatio
 ![framework](./figs/Fig1.png)
 
 ## Prepare Datasets
-1.The Market1501 dataset is available from [Zheng](http://zheng-lab.cecs.anu.edu.au/Project/project_reid.html).
+1.The Market1501 dataset is available from [Zheng](http://zheng-lab.cecs.anu.edu.au/Project/project_reid.html). You need to [download](https://drive.google.com/file/d/1gr5yZXUq2bUxq0z1LUPuNOPCIkANugYd/view?usp=sharing) the dataset.
 
-2.DukeMTMC-reID is available from [Zheng](https://megapixels.cc/duke_mtmc/).
+2.DukeMTMC-reID is available from [Zheng](https://megapixels.cc/duke_mtmc/). You need to [download](https://drive.google.com/file/d/1Ke4ZzgKivi59wsCSN9A-SSBGx3FkFhMl/view?usp=sharing) the dataset.
 
 L. Zheng, L. Shen, L. Tian, S. Wang, J. Wang, Q. Tian, Scalable person
 re-identification: A benchmark, in: The IEEE International Conference
@@ -18,7 +18,7 @@ the person re-identification baseline in vitro, in: The IEEE International
 Conference on Computer Vision, 2017, pp. 3774 – 3782.
 
 ## Prepare ImageNet Pre-trained Models for IBN-Net
-When training with the backbone of [IBN-Net](https://arxiv.org/abs/1807.09441), you need to download the ImageNet-pretrained model.
+When training with the backbone of [IBN-Net](https://arxiv.org/abs/1807.09441), you need to [download](https://drive.google.com/file/d/13uvO2i1dZdYYubWlBecehkSbF2IEUi3d/view?usp=sharing) the ImageNet-pretrained model.
 
 ## Results
 ![framework](./figs/Fig2.png)
