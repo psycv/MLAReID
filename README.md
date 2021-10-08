@@ -18,7 +18,7 @@ the person re-identification baseline in vitro, in: The IEEE International
 Conference on Computer Vision, 2017, pp. 3774 – 3782.
 
 ## Prepare ImageNet Pre-trained Models for IBN-Net
-When training with the backbone of ![IBN-Net](https://arxiv.org/abs/1807.09441 "IBN-ResNet"), you need to download the ImageNet-pretrained model.
+When training with the backbone of [IBN-Net](https://arxiv.org/abs/1807.09441), you need to download the ImageNet-pretrained model.
 
 ## Results
 ![framework](./figs/Fig2.png)
