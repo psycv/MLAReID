@@ -5,9 +5,9 @@ The official repository for Multi-level fusion model for person re-identificatio
 ![framework](./figs/Fig1.png)
 
 ## Prepare Datasets
-1.The Market1501 dataset is available from ![Zheng](http://zheng-lab.cecs.anu.edu.au/Project/project_reid.html "Zheng").
+1.The Market1501 dataset is available from [Zheng](http://zheng-lab.cecs.anu.edu.au/Project/project_reid.html).
 
-2.DukeMTMC-reID is available from ![Zheng](https://megapixels.cc/duke_mtmc/ "Zheng").
+2.DukeMTMC-reID is available from [Zheng](https://megapixels.cc/duke_mtmc/).
 
 L. Zheng, L. Shen, L. Tian, S. Wang, J. Wang, Q. Tian, Scalable person
 re-identification: A benchmark, in: The IEEE International Conference
